@@ -1,7 +1,3 @@
-# Next.js 프로젝트 시작하기
-
-이 프로젝트는 [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app)으로 생성된 [Next.js](https://nextjs.org) 프로젝트입니다.
-
 ## 주요 기술 스택
 
 *   **프레임워크:** [Next.js](https://nextjs.org/) (React 기반)
@@ -40,18 +36,3 @@ bun dev
 3.  **할 일(Todo) 수정:** 기존 할 일의 내용을 수정할 수 있습니다.
 4.  **할 일(Todo) 삭제:** 특정 할 일을 목록에서 삭제할 수 있습니다.
 5.  **할 일(Todo) 완료 처리:** 할 일의 완료 상태를 토글(완료/미완료)할 수 있습니다.
-
-## 더 알아보기
-
-Next.js에 대해 더 배우고 싶다면, 아래 자료들을 참고하세요:
-
--   [Next.js 공식 문서](https://nextjs.org/docs) - Next.js의 기능과 API에 대해 알아보세요.
--   [Next.js 배우기](https://nextjs.org/learn) - 대화형 Next.js 튜토리얼을 통해 학습하세요.
-
-[Next.js GitHub 저장소](https://github.com/vercel/next.js)에 피드백과 기여를 하실 수 있습니다.
-
-## Vercel에 배포하기
-
-Next.js 앱을 가장 쉽게 배포하는 방법은 Next.js의 제작사인 [Vercel 플랫폼](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)을 사용하는 것입니다.
-
-자세한 내용은 [Next.js 배포 문서](https://nextjs.org/docs/app/building-your-application/deploying)를 확인하세요.
